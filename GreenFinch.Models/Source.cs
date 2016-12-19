@@ -5,7 +5,6 @@ namespace GreenFinch.Models
 {
     public class Source
     {
-        //[Key]
         public int SourceId { get; set; }
 
         [DisplayName("Source")]

@@ -1,0 +1,5 @@
+C:\Users\MuhAli\Source\Repos\NewsletterSubscribe\GreenFinch.Models\bin\Debug\GreenFinch.Models.dll
+C:\Users\MuhAli\Source\Repos\NewsletterSubscribe\GreenFinch.Models\bin\Debug\GreenFinch.Models.pdb
+C:\Users\MuhAli\Source\Repos\NewsletterSubscribe\GreenFinch.Models\obj\Debug\GreenFinch.Models.csprojResolveAssemblyReference.cache
+C:\Users\MuhAli\Source\Repos\NewsletterSubscribe\GreenFinch.Models\obj\Debug\GreenFinch.Models.dll
+C:\Users\MuhAli\Source\Repos\NewsletterSubscribe\GreenFinch.Models\obj\Debug\GreenFinch.Models.pdb

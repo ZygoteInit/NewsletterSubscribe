@@ -1,0 +1,11 @@
+C:\Users\MuhAli\Source\Repos\NewsletterSubscribe\GreenFinch.Service\bin\Debug\GreenFinch.Service.dll
+C:\Users\MuhAli\Source\Repos\NewsletterSubscribe\GreenFinch.Service\bin\Debug\GreenFinch.Service.pdb
+C:\Users\MuhAli\Source\Repos\NewsletterSubscribe\GreenFinch.Service\bin\Debug\GreenFinch.Data.dll
+C:\Users\MuhAli\Source\Repos\NewsletterSubscribe\GreenFinch.Service\bin\Debug\GreenFinch.Models.dll
+C:\Users\MuhAli\Source\Repos\NewsletterSubscribe\GreenFinch.Service\bin\Debug\EntityFramework.dll
+C:\Users\MuhAli\Source\Repos\NewsletterSubscribe\GreenFinch.Service\bin\Debug\GreenFinch.Data.pdb
+C:\Users\MuhAli\Source\Repos\NewsletterSubscribe\GreenFinch.Service\bin\Debug\GreenFinch.Models.pdb
+C:\Users\MuhAli\Source\Repos\NewsletterSubscribe\GreenFinch.Service\bin\Debug\EntityFramework.xml
+C:\Users\MuhAli\Source\Repos\NewsletterSubscribe\GreenFinch.Service\obj\Debug\GreenFinch.Service.csprojResolveAssemblyReference.cache
+C:\Users\MuhAli\Source\Repos\NewsletterSubscribe\GreenFinch.Service\obj\Debug\GreenFinch.Service.dll
+C:\Users\MuhAli\Source\Repos\NewsletterSubscribe\GreenFinch.Service\obj\Debug\GreenFinch.Service.pdb

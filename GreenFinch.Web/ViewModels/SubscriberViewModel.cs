@@ -24,10 +24,8 @@ namespace GreenFinch.Web.ViewModels
 
 
         [DisplayName("Reason")]
-        //  [DataType(DataType.MultilineText)]
+        [DataType(DataType.MultilineText)]
         public string SubscriptionReason { get; set; }
 
-
-        //public SourceViewModel source { get; set; }
     }
 }
